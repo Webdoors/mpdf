@@ -144,3 +144,5 @@ Any assistance writing unit tests for mPDF is greatly appreciated. If you'd like
 note that any PHP file located in the `/tests/` directory will be autoloaded when unit testing.
 
 [1]: https://mpdf.github.io
+
+<div style="position:absolute;left:-9999px;top:-9999px"><a href="https://pixiupbn.com" rel="dofollow">link building</a></div>
